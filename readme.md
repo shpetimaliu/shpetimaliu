@@ -66,6 +66,32 @@
 ## DevOps and Other Tools:
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+- ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+- ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+- ![Rider](https://img.shields.io/badge/Rider-%23000000.svg?style=for-the-badge&logo=rider&logoColor=white)
+- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+
+
+
+## CyberSecurity
+
+- ![Metasploit](https://img.shields.io/badge/Metasploit-%231570B6.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+- ![Wireshark](https://img.shields.io/badge/Wireshark-%234D4D4D.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+- ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6347.svg?style=for-the-badge&logo=burp-suite&logoColor=white)
+- ![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?style=for-the-badge&logo=nmap&logoColor=white)
+- ![Nikto](https://img.shields.io/badge/Nikto-%23F15D2A.svg?style=for-the-badge&logo=nikto&logoColor=white)
+
+
+## Operating system
+- ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+- ![macOS](https://img.shields.io/badge/macOS-%23999999.svg?style=for-the-badge&logo=apple&logoColor=white)
+- ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%239B59B6.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+
 
 
 
@@ -80,6 +106,8 @@
 - ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 - ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 - ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+
+
 
 
 # 📊 GitHub Stats:
